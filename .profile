@@ -7,3 +7,5 @@ if [ "$BASH" ]; then
 fi
 
 mesg n || true
+
+# test code
